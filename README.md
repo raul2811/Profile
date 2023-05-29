@@ -29,7 +29,11 @@
   - Análisis de datos demográficos, como la distribución por género y edad de los estudiantes
   - Cálculo de promedios de edades y notas de estudiantes en diferentes cursos y escuelas
   - Representación gráfica de la cantidad de estudiantes por edad y porcentaje de asistencia a clases
-  - Evaluación del rendimiento académico mediante la aprobación o reprobación en función del porcentaje de asistencia y las notas     obtenidas
+  - Evaluación del rendimiento académico mediante la aprobación o reprobación en función del porcentaje de asistencia y las notas       obtenidas
+  - Manipulación de archivos: Capacidad para abrir, leer y escribir en archivos utilizando Python.
+  - Uso de la biblioteca JSON: Conocimientos en el manejo de datos en formato JSON utilizando la biblioteca estándar de Python.
+  - Definición de funciones: Experiencia en la creación y estructuración de funciones en Python para modularizar el código.
+  - Estructuras de datos: Familiaridad con el uso de listas y diccionarios para organizar y manipular datos.
   
 Poseo experiencia trabajando con diferentes sistemas operativos, incluyendo [Ubuntu](https://ubuntu.com/), Ubuntu Server y Windows. En particular, tengo un buen conocimiento de las funcionalidades y comandos de la línea de comando en Ubuntu y Ubuntu Server, lo que me ha permitido realizar tareas de administración de sistemas de manera efectiva. Además, tengo experiencia en la instalación, configuración y resolución de problemas en Windows, lo que me ha permitido comprender las necesidades y desafíos que enfrentan los usuarios en este sistema operativo. Me apasiona la resolución de problemas y el desarrollo de soluciones innovadoras para desafíos complejos en la industria tecnológica. Estoy comprometido a mantenerme actualizado con las últimas tendencias y avances en el campo de la tecnología, para así continuar expandiendo y mejorando mis habilidades.Actualmente curso el segundo año de lic en ingenieria informatica en la [universidad de panama](https://www.up.ac.pa/).
   
