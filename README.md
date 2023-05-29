@@ -34,6 +34,13 @@
   - Uso de la biblioteca JSON: Conocimientos en el manejo de datos en formato JSON utilizando la biblioteca estándar de Python.
   - Definición de funciones: Experiencia en la creación y estructuración de funciones en Python para modularizar el código.
   - Estructuras de datos: Familiaridad con el uso de listas y diccionarios para organizar y manipular datos.
+  - Desarrollo de aplicaciones web con Flask.
+  - Procesamiento de lenguaje natural (NLP) con NLTK.
+  - Uso de modelos de aprendizaje automático para clasificación de texto.
+  - Implementación de modelos de redes neuronales simples con TensorFlow.
+  - Integración de componentes front-end en aplicaciones Flask usando render_template.
+  - Uso de rutas y manejo de solicitudes HTTP en Flask.
+  - Trabajo con archivos de texto para almacenar registros y seguimiento de conversaciones.
   
 Poseo experiencia trabajando con diferentes sistemas operativos, incluyendo [Ubuntu](https://ubuntu.com/), Ubuntu Server y Windows. En particular, tengo un buen conocimiento de las funcionalidades y comandos de la línea de comando en Ubuntu y Ubuntu Server, lo que me ha permitido realizar tareas de administración de sistemas de manera efectiva. Además, tengo experiencia en la instalación, configuración y resolución de problemas en Windows, lo que me ha permitido comprender las necesidades y desafíos que enfrentan los usuarios en este sistema operativo. Me apasiona la resolución de problemas y el desarrollo de soluciones innovadoras para desafíos complejos en la industria tecnológica. Estoy comprometido a mantenerme actualizado con las últimas tendencias y avances en el campo de la tecnología, para así continuar expandiendo y mejorando mis habilidades.Actualmente curso el segundo año de lic en ingenieria informatica en la [universidad de panama](https://www.up.ac.pa/).
   
