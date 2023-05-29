@@ -18,8 +18,21 @@
 ### :man_technologist: Sobre mi :
 <div id="descripcion" align="left"> 
 
-- :telescope:Soy un programador junior con bases en múltiples lenguajes de programación, incluyendo [Python](https://www.python.org/), [C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)) y los lenguajes web [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS) y [JavaScript](https://es.wikipedia.org/wiki/JavaScript). También tengo conocimientos en áreas específicas como inteligencia artificial y análisis de datos. Poseo experiencia trabajando con diferentes sistemas operativos, incluyendo [Ubuntu](https://ubuntu.com/), Ubuntu Server y Windows. En particular, tengo un buen conocimiento de las funcionalidades y comandos de la línea de comando en Ubuntu y Ubuntu Server, lo que me ha permitido realizar tareas de administración de sistemas de manera efectiva. Además, tengo experiencia en la instalación, configuración y resolución de problemas en Windows, lo que me ha permitido comprender las necesidades y desafíos que enfrentan los usuarios en este sistema operativo. Me apasiona la resolución de problemas y el desarrollo de soluciones innovadoras para desafíos complejos en la industria tecnológica. Estoy comprometido a mantenerme actualizado con las últimas tendencias y avances en el campo de la tecnología, para así continuar expandiendo y mejorando mis habilidades.Actualmente curso el segundo año de lic en ingenieria informatica en la [universidad de panama](https://www.up.ac.pa/).
-
+- :telescope:Soy un programador junior con bases en múltiples lenguajes de programación, incluyendo [Python](https://www.python.org/), [C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)) y los lenguajes web [HTML](https://es.wikipedia.org/wiki/HTML), [CSS](https://es.wikipedia.org/wiki/CSS) y [JavaScript](https://es.wikipedia.org/wiki/JavaScript). También tengo conocimientos en áreas específicas como inteligencia artificial , ciencia de datos y análisis de datos. Estoy familiarizado con las siguientes habilidades y conocimientos:
+  
+  - Uso de bibliotecas como Pandas, NumPy y Matplotlib para el procesamiento, análisis y visualización de datos
+  - Manejo de archivos CSV y técnicas de limpieza de datos, incluyendo la eliminación de valores vacíos
+  - Manipulación de DataFrames en Pandas para seleccionar columnas específicas de interés
+  - Realización de cálculos estadísticos utilizando la biblioteca Statistics
+  - Generación de gráficos y visualizaciones utilizando Matplotlib para explorar patrones y tendencias en los datos
+  - Creación de funciones reutilizables para leer archivos CSV, eliminar valores vacíos y generar gráficas
+  - Análisis de datos demográficos, como la distribución por género y edad de los estudiantes
+  - Cálculo de promedios de edades y notas de estudiantes en diferentes cursos y escuelas
+  - Representación gráfica de la cantidad de estudiantes por edad y porcentaje de asistencia a clases
+  - Evaluación del rendimiento académico mediante la aprobación o reprobación en función del porcentaje de asistencia y las notas     obtenidas
+  
+Poseo experiencia trabajando con diferentes sistemas operativos, incluyendo [Ubuntu](https://ubuntu.com/), Ubuntu Server y Windows. En particular, tengo un buen conocimiento de las funcionalidades y comandos de la línea de comando en Ubuntu y Ubuntu Server, lo que me ha permitido realizar tareas de administración de sistemas de manera efectiva. Además, tengo experiencia en la instalación, configuración y resolución de problemas en Windows, lo que me ha permitido comprender las necesidades y desafíos que enfrentan los usuarios en este sistema operativo. Me apasiona la resolución de problemas y el desarrollo de soluciones innovadoras para desafíos complejos en la industria tecnológica. Estoy comprometido a mantenerme actualizado con las últimas tendencias y avances en el campo de la tecnología, para así continuar expandiendo y mejorando mis habilidades.Actualmente curso el segundo año de lic en ingenieria informatica en la [universidad de panama](https://www.up.ac.pa/).
+  
 - :seedling:He participado de la Hackathon del año 2022 del [samsung innovation campus](https://sicvirtual.com/) participando con el proyecto [C.E.D.A.A.C](https://github.com/raul2811/Chatbot-proyecto-final).
 ---
 
